@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-vk",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "vkontakte",
+    "vk",
+    "vkui",
+    "vkminiapps",
+    "vkapps",
+    "template"
+  ],
+  "description": "The base VK Mini Apps template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/handlerug/cra-template-vk.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/handlerug/cra-template-vk/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

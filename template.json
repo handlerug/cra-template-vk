@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@vkontakte/icons": "^1.13.0",
+    "@vkontakte/vk-connect": "^1.7.3",
+    "@vkontakte/vkui": "^2.34.1"
+  }
+}
